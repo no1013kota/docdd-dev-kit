@@ -1,4 +1,4 @@
-// docdd-kit v0.15.1 — scripts/check-doc-dates.mjs（キットが管理するファイル。直すと /docdd:update-kit が差分を見せて聞く）
+// docdd-kit v0.16.0 — scripts/check-doc-dates.mjs（キットが管理するファイル。直すと /docdd:update-kit が差分を見せて聞く）
 // docs の「更新日」が、その文書の内容を最後に変えたコミットより古くないかを検査する。
 // あわせて、仕様の正本（PRD・requirements/・変更履歴の見出しを持つ文書）の冒頭 version と変更履歴が合うかを見る。
 //

@@ -21,7 +21,7 @@ import { fileURLToPath } from "node:url";
 
 const PLUGIN_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const TEMPLATES = path.join(PLUGIN_ROOT, "templates");
-const FALLBACK_VERSION = "0.15.1";
+const FALLBACK_VERSION = "0.16.0";
 const KIT_VERSION = readKitVersion();
 const CWD = realpath(process.cwd());
 

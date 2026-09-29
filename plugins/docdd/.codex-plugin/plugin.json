@@ -1,6 +1,6 @@
 {
   "name": "docdd",
-  "version": "0.15.1",
+  "version": "0.16.0",
   "description": "1人の非エンジニアが Claude Code や Codex で Web アプリやゲームなどを作り続けるための開発キット。約束（AGENTS.md）・仕様書（docs）・作業キュー（BACKLOG）の雛形を置く init と、タスク起票・開発サイクル・docs 同期・検証・反映の手順書（スキル）、取り消しにくい git 操作と秘密の値の入ったコミットを止める hook。",
   "hooks": "./hooks/codex-hooks.json"
 }

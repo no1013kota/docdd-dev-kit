@@ -1,4 +1,4 @@
-// docdd-kit v0.15.1 — scripts/backlog-archive.mjs（キットが管理するファイル。直すと /docdd:update-kit が差分を見せて聞く）
+// docdd-kit v0.16.0 — scripts/backlog-archive.mjs（キットが管理するファイル。直すと /docdd:update-kit が差分を見せて聞く）
 // 終わったタスクと決まった判断を tasks/BACKLOG.md から tasks/archive/BACKLOG-done.md へ移す。
 // BACKLOG に残すのは、まだ動いているもの（todo・doing・blocked のタスクと、未決の判断）だけにする。
 // 終わったものまで残すと BACKLOG が育ち続け、「BACKLOG を読む」手順が読むだけで作業の場所（コンテキスト）を使い、
